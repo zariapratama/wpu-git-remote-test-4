@@ -9,5 +9,9 @@
   <body>
     <h1>Hello World!</h1>
     <p>Lorem plaza istitut noumi airsatya citra line.</p>
-  </body>
+    <ul>
+     <li>satu</li>
+     <li>dua</li>
+</ul>
+</body>
 </html>
